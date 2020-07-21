@@ -1,2 +1,0 @@
-PaddleMoveUnitsPerSecond,BallImpulseForce,LifetimeBall,TimeMinimunSpaw,TimeMaximumSpaw,PointsStandarBlock,PointsBonusBlock,PointsPickupBlock,ProbabilitiesStandarBlock,ProbabilitiesBonusBlock,ProbabilitiesFreezerBlock,ProbabilitiesSpeedupBlock,NumberOfBallsPerGame,DurationEffectFreezer,DurationEffectSpeedup,EffectSpeedup
-10,200,10,5,10,2,3,10,50,75,90,100,20,2,10,2
